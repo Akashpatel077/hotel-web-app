@@ -1,0 +1,21 @@
+:root{
+    --purple-color: #4461F2;
+    --blue-color: #0076FF;
+    --dark-color: #163668;
+    --yellow-color: #FFC54D;
+    --sky-color: #47B5FF;
+}
+
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}

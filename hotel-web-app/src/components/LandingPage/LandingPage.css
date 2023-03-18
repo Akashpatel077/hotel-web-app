@@ -1,0 +1,59 @@
+.bgElement {
+    height: 543px;
+    width: 1400px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    /* 3 */
+
+    background: linear-gradient(168.05deg, #023B96 5.04%, #022357 91.26%);
+}
+
+#image3 {
+    position: absolute;
+    top: 0px;
+}
+
+#rectangle55 {
+    height: 271px;
+    width: 1030px;
+    left: 319px;
+    top: 282px;
+    border-radius: 0px;
+    position: absolute;
+    left: 22.79%;
+    right: 3.64%;
+    top: 65.43%;
+    
+    bottom: -28.31%;
+
+}
+
+
+
+.Head {
+    height: 33px;
+width: 160px;
+left: 340px;
+top: 606px;
+border-radius: null;
+position: absolute;
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+letter-spacing: 0.0026em;
+
+color: #282E44;
+}

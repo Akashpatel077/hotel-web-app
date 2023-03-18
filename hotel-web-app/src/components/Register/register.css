@@ -1,0 +1,248 @@
+/* Register {
+    min-height: 100vh;
+    position: relative;
+
+} */
+
+.bgElement {
+    height: 543px;
+    width: 1400px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    /* 3 */
+
+    background: linear-gradient(168.05deg, #023B96 5.04%, #022357 91.26%);
+
+}
+
+#image2 {
+    height: 316.2596740722656px;
+    width: 489.53289794921875px;
+    border-radius: 0px;
+    position: absolute;
+    left: -0.57%;
+    right: 1086px;
+    top: -0.6%;
+    bottom: 1723.32px;
+}
+
+#image3 {
+    height: 328.3460388183594px;
+    width: 913.4747924804688px;
+    border-radius: 0px;
+    position: absolute;
+    left: 32.39%;
+    right: 117px;
+    top: -0.39%;
+    bottom: 1753.54px;
+}
+
+.overlay {
+    height: 125.98607635498047px;
+    width: 1400px;
+    border-radius: 0px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 76.8%;
+
+    background: linear-gradient(180deg, rgba(3, 11, 55, 0.201267) -7.15%, rgba(0, 41, 107, 0.0001) 100%);
+}
+
+#rectangle5 {
+    height: 432.13226318359375px;
+    width: 1030px;
+    left: 316px;
+    top: 225.51513671875px;
+    border-radius: 0px;
+    position: absolute;
+    left: 22.57%;
+    right: 3.86%;
+    top: 41.53%;
+    bottom: -21.11%;
+}
+
+#rectangle1135 {
+    height: 666px;
+    width: 712px;
+    left: 41px;
+    top: 1112px;
+    border-radius: [object Object]px;
+    position: absolute;
+    width: 712px;
+    height: 666px;
+    left: 41px;
+    top: 1112px;
+}
+.sign-btn {
+    height: 32px;
+    width: 253.91477966308594px;
+    left: 584px;
+    top: 813px;
+    border-radius: null;
+    position: absolute;
+    width: 253.91px;
+    height: 32px;
+    left: 584px;
+    top: 813px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.06em;
+
+    color: #4461F2;
+}
+
+.register {
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    position: absolute;
+    width: 253.91px;
+    height: 32px;
+    left: 995.75px;
+    top: 813px;
+
+    color: #4461F2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 21px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.06em;
+
+
+}
+
+#exampleInputEmail1 {
+    height: 60px;
+    width: 485px;
+    position: absolute;
+    left: 838px;
+    right: 77px;
+    top: 1167px;
+    bottom: 679px;
+
+    background: #EAF0F7;
+    border-radius: 10px;
+}
+
+#exampleInputPassword1 {
+    height: 60px;
+    width: 485px;
+    left: 0px;
+    top: 8px;
+    border-radius: 10px;
+    position: absolute;
+    left: 838px;
+    right: 77px;
+    top: 1307px;
+    bottom: 539px;
+
+    background: #EAF0F7;
+    border-radius: 10px;
+}
+
+.recover-pass {
+    height: 77px;
+    width: 183.384033203125px;
+    left: 1141.615966796875px;
+    top: 1424px;
+    border-radius: null;
+    position: absolute;
+    width: 183.38px;
+    height: 77px;
+    left: 1141.62px;
+    top: 1424px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 77px;
+    /* identical to box height, or 550% */
+
+    letter-spacing: 0.1em;
+
+    color: #C7C7C7;
+}
+
+.sign-in-btn {
+    height: 60px;
+    width: 485.7855224609375px;
+    left: 838px;
+    top: 1522px;
+    border-radius: 10px;
+    position: absolute;
+    width: 485.79px;
+    height: 60px;
+    left: 838px;
+    top: 1522px;
+
+    background: #4461F2;
+    box-shadow: 0px 12px 21px 4px rgba(68, 97, 242, 0.15);
+    border-radius: 10px;
+    position: absolute;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 77px;
+    /* identical to box height, or 405% */
+
+    letter-spacing: 0.09em;
+
+    color: #FFFFFF;
+
+}
+
+.sign-in-btn {
+    position: relative;
+}
+
+.sign-in-btn::after {
+    content: "";
+    position: absolute;
+    width: 145.74px;
+    height: 0px;
+    top: 107px;
+    left: 0px;
+
+    border: 1px solid #bf1717;
+}
+.sign-in-btn {
+    position: relative;
+}
+.sign-in-btn::after {
+    content: "";
+    position: absolute;
+    width: 145.74px;
+    height: 0px;
+    top: 107px;
+    right: 0px;
+
+    border: 1px solid #bf1717;
+}

@@ -1,0 +1,144 @@
+.bgElement h1 {
+    height: 125.98607635498047px;
+    width: 1400px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 76.8%;
+
+    background: linear-gradient(180deg, rgba(3, 11, 55, 0.201267) -7.15%, rgba(0, 41, 107, 0.0001) 100%);
+}
+
+.bgElement {
+    height: 543px;
+    width: 1400px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+    background: linear-gradient(168.05deg, #023B96 5.04%, #022357 91.26%);
+
+}
+
+
+#image2 {
+    height: 316.2596740722656px;
+    width: 489.53289794921875px;
+    left: -176px;
+    top: -133.579833984375px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: -12.57%;
+    right: 77.6%;
+    top: -24.6%;
+    bottom: 66.36%;
+
+}
+
+#image3 {
+    height: 328.3460388183594px;
+    width: 913.4747924804688px;
+    left: 369.52520751953125px;
+    top: -175.882080078125px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 26.39%;
+    right: 8.36%;
+    top: -32.39%;
+    bottom: 71.92%;
+
+}
+
+#firstPicture {
+    height: 432.13226318359375px;
+    width: 1030px;
+    left: 316px;
+    top: 225.51513671875px;
+    border-radius: 0px;
+    position: absolute;
+    left: 22.57%;
+    right: 3.86%;
+    top: 41.53%;
+    bottom: -21.11%;
+}
+
+#secondPicture {
+    position: absolute;
+    width: 712px;
+    height: 666px;
+    left: 41px;
+    top: 1112px;
+    border-radius: 0px 0px 15px 15px;
+}
+
+.btn1 {
+    position: absolute;
+    width: 253.91px;
+    height: 32px;
+    left: 584px;
+    top: 813px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.06em;
+    color: #4461F2;
+}
+
+.btn2 {
+    position: absolute;
+    width: 253.91px;
+    height: 32px;
+    left: 995.75px;
+    top: 813px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.06em;
+
+    color: #4461F2;
+
+}
+
+.btn2 h1 {
+    height: 84px;
+    width: 384.3034973144531px;
+    left: 923.696533203125px;
+    top: 789px;
+    border-radius: 21px;
+
+    position: absolute;
+    width: 384.3px;
+    height: 84px;
+    left: 923.7px;
+    top: 789px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 21px;
+}
+
+.btn3 {
+    height: 84px;
+    width: 384.3034973144531px;
+    left: 923.696533203125px;
+    top: 789px;
+    border-radius: 21px;
+
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 21px;
+}
