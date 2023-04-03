@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Header.css';
 const image2 = new URL('../../assets/image-2.png', import.meta.url)
 const image3 = new URL('../../assets/image-3.png', import.meta.url)
@@ -31,8 +32,8 @@ const Header = () => {
                 <button type="submit" className="sign-in-btn">Sign In</button>
             </form>
 
-            <a href='#' className='sign-btn'>Sign In</a>
-            <a href='#' className='register'>Register</a>
+            <Link to="/" className='sign-btn' >Sign In</Link>
+            <Link to="/register" className='register' >Register</Link>
             <a href='#' className='recover-pass'>Recover Password?</a>
             
         </header>

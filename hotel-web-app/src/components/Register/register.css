@@ -1,4 +1,4 @@
-/* Register {
+/* header {
     min-height: 100vh;
     position: relative;
 
@@ -23,8 +23,6 @@
 }
 
 #image2 {
-    height: 316.2596740722656px;
-    width: 489.53289794921875px;
     border-radius: 0px;
     position: absolute;
     left: -0.57%;
@@ -34,8 +32,6 @@
 }
 
 #image3 {
-    height: 328.3460388183594px;
-    width: 913.4747924804688px;
     border-radius: 0px;
     position: absolute;
     left: 32.39%;
@@ -82,6 +78,7 @@
     left: 41px;
     top: 1112px;
 }
+
 .sign-btn {
     height: 32px;
     width: 253.91477966308594px;
@@ -147,7 +144,22 @@
     border-radius: 10px;
 }
 
-#exampleInputPassword1 {
+#exampleInputName1 {
+    height: 60px;
+    width: 485px;
+    left: 0px;
+    top: 8px;
+    border-radius: 10px;
+    position: absolute;
+    left: 838px;
+    right: 77px;
+    top: 1022px;
+
+    background: #EAF0F7;
+    border-radius: 10px;
+}
+
+#exampleInputPassword1{
     height: 60px;
     width: 485px;
     left: 0px;
@@ -234,7 +246,7 @@
     border: 1px solid #bf1717;
 }
 .sign-in-btn {
-    position: relative;
+    position: absolute;
 }
 .sign-in-btn::after {
     content: "";

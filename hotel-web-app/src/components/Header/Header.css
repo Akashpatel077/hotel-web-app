@@ -23,8 +23,6 @@ header .bgElement {
 }
 
 #image2 {
-    height: 316.2596740722656px;
-    width: 489.53289794921875px;
     border-radius: 0px;
     position: absolute;
     left: -0.57%;
@@ -34,8 +32,6 @@ header .bgElement {
 }
 
 #image3 {
-    height: 328.3460388183594px;
-    width: 913.4747924804688px;
     border-radius: 0px;
     position: absolute;
     left: 32.39%;
@@ -235,7 +231,7 @@ header .recover-pass {
     border: 1px solid #bf1717;
 }
 .sign-in-btn {
-    position: relative;
+    position: absolute;
 }
 .sign-in-btn::after {
     content: "";
