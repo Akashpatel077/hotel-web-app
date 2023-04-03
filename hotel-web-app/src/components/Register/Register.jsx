@@ -47,7 +47,7 @@ const Register = () => {
 
             <Link to="/" className='sign-btn' >Sign In</Link>
             <Link to="/register" className='register' >Register</Link>
-            <a href='#' className='recover-pass'>Recover Password?</a>
+            {/* <a href='#' className='recover-pass'>Recover Password?</a> */}
             
         </>
     );
